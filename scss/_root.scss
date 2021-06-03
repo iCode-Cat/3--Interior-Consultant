@@ -1,0 +1,25 @@
+:root {
+
+    --fs-hero-h1:3.6rem;
+    --fs-hero-h2:1.4rem;
+    --fs-hero-h3:1.4rem;
+    --fs-prf-desc:1.8rem;
+
+    --size-hero-h2:250px;
+
+    --clr-primary:#FFF;
+    --clr-secondary:#828282;
+
+    --clr-bg:#181719;
+
+    @media (min-width:70em) {
+        
+    --fs-hero-h1:4.8rem;
+    --fs-hero-h2:2.4rem;
+    --fs-hero-h3:1.8rem;
+    --fs-prf-desc:2.4rem;
+
+    --size-hero-h2:364px;
+
+    }
+}
