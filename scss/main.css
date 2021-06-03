@@ -44,6 +44,7 @@ footer {
   color: #A9A9A9;
   bottom: 2.4rem;
   padding-top: 4rem;
+  position: absolute;
   left: 0;
   right: 0;
   width: 100%;
@@ -327,7 +328,7 @@ select {
 
 .hero {
   margin-top: 3.8rem;
-  margin-bottom: 10rem;
+  margin-bottom: 14rem;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -470,7 +471,7 @@ select {
 @media (min-width: 50em) {
   .hero {
     margin-top: 10rem;
-    margin-bottom: 20rem;
+    margin-bottom: 23rem;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
